@@ -18,6 +18,10 @@ public class Demo01 {
         System.out.println("用户A添加的方法test03");
     }
 
+    public void test04(){
+        System.out.println("用户B添加的方法test04");
+    }
+
 
 
 }
