@@ -14,8 +14,4 @@ public class Demo01 {
         System.out.println("组员B第一次修改Demo01的代码，创建test2方法。。");
     }
 
-    public void test03(){
-        System.out.println("用户A添加的方法test03");
-    }
-
 }
